@@ -116,4 +116,5 @@ TODO
 License
 ----
 **Silly** is available under the **MIT** license. See the LICENSE file for more info.
+**Credit** @Mohammad Shams
 
